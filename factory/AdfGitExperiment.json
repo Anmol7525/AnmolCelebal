@@ -1,0 +1,9 @@
+{
+	"name": "AdfGitExperiment",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "abc5ad5c-b6fd-4131-aaf5-ca455a5dfd35",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
