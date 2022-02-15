@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "AdfGitExperiment"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
